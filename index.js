@@ -1,6 +1,6 @@
 function theBeatlesPlay([musicians], [instrument]){
   var array[]
   for (var i=0; i < musicians.length;i++)
-  array.push[`${musicians} plays ${instrument}`
+  array.push(musicians`${musicians} plays ${instrument}`
 }
   
